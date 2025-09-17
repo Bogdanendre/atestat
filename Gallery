@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Galéria — Vadászgépek</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="index.html">Vadászgépek</a>
+      <nav>
+        <a href="index.html">Főoldal</a>
+        <a href="types.html">Típusok</a>
+        <a href="gallery.html">Galéria</a>
+        <a href="about.html">Rólunk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Galéria</h1>
+    <p class="muted">Képek nyilvános forrásokból (pl. Wikimedia Commons). Cseréld le a `images/` mappában lévő fájlokra, ha saját képeket használsz.</p>
+
+    <div class="gallery">
+      <img src="images/f35.jpg" alt="F-35"/>
+      <img src="images/f22.jpg" alt="F-22"/>
+      <img src="images/eurofighter.jpg" alt="Eurofighter"/>
+      <img src="images/su57.jpg" alt="Su-57"/>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© 2025 Vadászgépek</div>
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+</html>
