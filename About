@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Rólunk — Vadászgépek</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="index.html">Vadászgépek</a>
+      <nav>
+        <a href="index.html">Főoldal</a>
+        <a href="types.html">Típusok</a>
+        <a href="gallery.html">Galéria</a>
+        <a href="about.html">Rólunk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Rólunk</h1>
+    <p class="muted">Ez a bemutató oldal oktatási célú — nem ad tanácsot, nem részletezi működtetési vagy gyártási módszereket.</p>
+    <p>Ha szeretnéd, bővíthetjük részletesebb típusoldalakkal, interaktív diagramokkal, vagy többszörös nyelvi támogatással.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© 2025 Vadászgépek</div>
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+</html>
