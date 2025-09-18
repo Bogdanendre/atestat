@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>F-22 Raptor — Vadászgépek</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="index.html">Vadászgépek</a>
+      <nav>
+        <a href="index.html">Főoldal</a>
+        <a href="types.html">Típusok</a>
+        <a href="gallery.html">Galéria</a>
+        <a href="about.html">Rólunk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>F-22 Raptor</h1>
+    <img src="images/f22.jpg" alt="F-22 Raptor" style="width:100%;max-width:600px;border-radius:10px">
+    <p>Az F-22 Raptor az amerikai Lockheed Martin által fejlesztett ötödik generációs vadászgép, amelyet főként légifölény megszerzésére terveztek. Kiemelkedő manőverezőképességgel és lopakodó tulajdonságokkal rendelkezik.</p>
+    <p>A gép egyik különlegessége a „supercruise” képesség: képes tartósan szuperszonikus sebességet elérni utánégető nélkül. Fegyverzete belső fegyvertérben helyezkedik el a lopakodó kialakítás érdekében.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© 2025 Vadászgépek</div>
+  </footer>
+</body>
+</html>
