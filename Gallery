@@ -25,7 +25,7 @@
 
     <div class="gallery">
       <img src="images/f35.jpg" alt="F-35"/>
-      <img src="images/f22.jpg" alt="F-22"/>
+      <a href="f22.html"><img src="kepek/f35.jpg" alt="F-35"></a>
       <img src="images/eurofighter.jpg" alt="Eurofighter"/>
       <img src="images/su57.jpg" alt="Su-57"/>
     </div>
